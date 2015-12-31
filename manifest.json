@@ -1,4 +1,4 @@
-{
+{ 
   "name": "Google Santa Tracker",
   "short_name": "Santa Tracker",
   "start_url": "https://santatracker.google.com/?utm_source=web_app_manifest&utm_medium=web_app_manifest",
